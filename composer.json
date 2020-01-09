@@ -1,0 +1,17 @@
+{
+    "name": "ruben/rubenpadilla-composer",
+    "description": "This composer gets the data which is in the 'icb0006_uf4_pr01' database.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ruben Padilla",
+            "email": "rupadilla98@gmail.com"
+        }
+    ],"autoload": {
+        "psr-4": {
+            
+        }
+    },
+    "require": {}
+}
