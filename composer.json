@@ -1,5 +1,5 @@
 {
-    "name": "ruben/rubenpadilla-composer",
+    "name": "rubenpadillamateu/rubenpadilla-composer",
     "description": "This composer gets the data which is in the 'icb0006_uf4_pr01' database.",
     "type": "library",
     "license": "MIT",
